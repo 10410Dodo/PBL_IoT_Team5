@@ -1,6 +1,6 @@
 # PBL_IoT_Team5
 
-### Project Name : Classroom environment monitoring and improvement–Using Arduino PM2.5 Air Quality Sensing Kit
+### Project Name : Classroom Environment Monitoring and Improvement–Using Arduino PM2.5 Air Quality Sensing Kit
 
 ### Motivation 
 Many classroom environments lack effective air quality monitoring systems, especially in enclosed spaces with air conditioning, leading to prolonged exposure of students and teachers to poor air quality without timely detection. 
