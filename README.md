@@ -11,3 +11,9 @@ Therefore, it is crucial to address the inadequacies in air quality monitoring, 
 The Arduino PM2.5 Air Quality Sensing Kit system combines IoT technology to enhance and improve the overall quality of the learning environment, ensuring that air quality issues are promptly detected and addressed.
 The system uses an ESP-32 as the controller board, paired with the PMS5003T PM2.5 sensor, and DHT11, the temperature and humidity sensor. 
 In addition to detecting particulate matter (PM1.0, PM2.5, PM10), it also provides temperature and humidity measurements, enhancing the overall quality of the learning environment's monitoring.
+## Product Prototype
+![image](https://github.com/10410Dodo/PBL_IoT_Team5/assets/101381549/8a9884fe-dcbd-4ee0-a9aa-bb753efc2547)
+![image](https://github.com/10410Dodo/PBL_IoT_Team5/assets/101381549/c4f4965b-0831-4441-b705-ae1b21ebf447)
+Connect to AWS demo
+https://github.com/10410Dodo/PBL_IoT_Team5/assets/101381549/ba605782-3564-4ac2-a775-59fd31a30a4c
+
