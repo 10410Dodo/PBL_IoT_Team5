@@ -14,6 +14,8 @@ In addition to detecting particulate matter (PM1.0, PM2.5, PM10), it also provid
 ## Product Prototype
 ![image](https://github.com/10410Dodo/PBL_IoT_Team5/assets/101381549/8a9884fe-dcbd-4ee0-a9aa-bb753efc2547)
 ![image](https://github.com/10410Dodo/PBL_IoT_Team5/assets/101381549/c4f4965b-0831-4441-b705-ae1b21ebf447)
+
 Connect to AWS demo
-https://github.com/10410Dodo/PBL_IoT_Team5/assets/101381549/ba605782-3564-4ac2-a775-59fd31a30a4c
+![image](https://github.com/10410Dodo/PBL_IoT_Team5/assets/101381549/0b1e6fb5-dfef-4a05-b59a-d97bc81ede33)
+
 
