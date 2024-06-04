@@ -162,7 +162,7 @@ void loop()
 
 
 bool receive_measurement (void)
-{ 
+{ // For HPMA115S0 pm2.5 sensor
 
   byte HEAD0 = Serial2.read();
   byte HEAD1 = Serial2.read();
